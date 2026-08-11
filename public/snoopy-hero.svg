@@ -1,0 +1,65 @@
+<svg width="1000" height="760" viewBox="0 0 1000 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Friendly dog grooming illustration</title>
+  <desc id="desc">Original concept artwork showing a calm dog at a neighborhood grooming salon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="900" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6F2EE"/>
+      <stop offset="1" stop-color="#FCECE4"/>
+    </linearGradient>
+    <linearGradient id="coat" x1="410" y1="260" x2="650" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D69B68"/>
+      <stop offset="1" stop-color="#B87547"/>
+    </linearGradient>
+    <filter id="shadow" x="180" y="110" width="700" height="610" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="24" stdDeviation="26" flood-color="#17483C" flood-opacity="0.13"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="760" rx="56" fill="url(#bg)"/>
+  <circle cx="150" cy="142" r="70" fill="#FFFFFF" fill-opacity="0.58"/>
+  <circle cx="868" cy="620" r="105" fill="#FFFFFF" fill-opacity="0.46"/>
+  <path d="M72 610C205 556 259 661 396 601C534 540 676 604 924 515" stroke="#7EB9A7" stroke-width="3" stroke-dasharray="10 13" opacity="0.6"/>
+
+  <g opacity="0.34" fill="#17483C">
+    <circle cx="118" cy="198" r="12"/><circle cx="91" cy="176" r="9"/><circle cx="145" cy="174" r="9"/><path d="M101 213C101 192 135 192 135 213C135 231 101 231 101 213Z"/>
+    <circle cx="836" cy="135" r="12"/><circle cx="809" cy="113" r="9"/><circle cx="863" cy="111" r="9"/><path d="M819 150C819 129 853 129 853 150C853 168 819 168 819 150Z"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="210" y="124" width="602" height="500" rx="44" fill="#FFFDF8"/>
+    <rect x="252" y="170" width="518" height="54" rx="27" fill="#17483C"/>
+    <circle cx="289" cy="197" r="10" fill="#F4B49F"/>
+    <rect x="315" y="189" width="192" height="16" rx="8" fill="#EEF7F3"/>
+    <rect x="638" y="189" width="92" height="16" rx="8" fill="#8BC6B3"/>
+
+    <path d="M410 391C410 314 469 255 543 255C618 255 674 314 674 391V456C674 541 617 588 543 588C469 588 410 541 410 456V391Z" fill="url(#coat)"/>
+    <path d="M423 318C389 274 368 266 345 284C329 297 336 338 382 379" fill="#A9653B"/>
+    <path d="M663 319C696 274 718 266 740 284C757 297 749 338 704 379" fill="#A9653B"/>
+    <ellipse cx="495" cy="390" rx="18" ry="23" fill="#203B34"/>
+    <ellipse cx="594" cy="390" rx="18" ry="23" fill="#203B34"/>
+    <ellipse cx="544" cy="437" rx="27" ry="21" fill="#203B34"/>
+    <path d="M519 472C535 489 555 489 571 472" stroke="#203B34" stroke-width="8" stroke-linecap="round"/>
+    <path d="M474 527C521 549 570 549 616 526" stroke="#F5D9BF" stroke-width="19" stroke-linecap="round"/>
+    <circle cx="544" cy="536" r="13" fill="#F4B49F"/>
+
+    <g transform="translate(299 412) rotate(-12)">
+      <circle cx="0" cy="0" r="21" fill="#77B6A3"/>
+      <circle cx="47" cy="0" r="21" fill="#77B6A3"/>
+      <path d="M16 -9L31 9M16 9L31 -9" stroke="#17483C" stroke-width="7" stroke-linecap="round"/>
+      <path d="M-4 19L-42 78M52 19L90 78" stroke="#17483C" stroke-width="8" stroke-linecap="round"/>
+    </g>
+
+    <rect x="274" y="572" width="206" height="30" rx="15" fill="#EAF4F1"/>
+    <rect x="499" y="572" width="247" height="30" rx="15" fill="#FBE8DF"/>
+  </g>
+
+  <g transform="translate(775 392)">
+    <circle cx="0" cy="0" r="62" fill="#F4B49F"/>
+    <path d="M-17 -7C-17 -29 17 -29 17 -7C17 10 -17 10 -17 -7Z" fill="#FFFDF8"/>
+    <circle cx="-34" cy="-27" r="10" fill="#FFFDF8"/>
+    <circle cx="34" cy="-27" r="10" fill="#FFFDF8"/>
+    <circle cx="-24" cy="29" r="10" fill="#FFFDF8"/>
+    <circle cx="24" cy="29" r="10" fill="#FFFDF8"/>
+  </g>
+
+  <text x="76" y="700" fill="#17483C" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2">ORIGINAL PREVIEW ART • REPLACE WITH SNOOPY'S PHOTO</text>
+</svg>
